@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "JosefinMedium";
+  src: local("JosefinMedium"),
+    url("./Josefin_Sans/JosefinSans-Medium.ttf") format("truetype");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "JosefinRegular";
+  src: local("JosefinRegular"),
+    url("./Josefin_Sans/JosefinSans-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "OpenRegular";
+  src: local("OpenRegular"),
+    url("./Open_Sans/OpenSans-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "PoppinsSemiBold";
+  src: local("PoppinsSemiBold"),
+    url("./Poppins/Poppins-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+}
