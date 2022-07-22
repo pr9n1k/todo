@@ -1,8 +1,13 @@
+import Footer from "./components/Footer/Footer";
+import Header from "./components/Header/Header";
+import Main from "./components/Main";
+
 function App() {
   return (
     <div className="App">
-      START
-      <span className="icon icon-done"></span>
+      <Header />
+      <Main />
+      <Footer />
     </div>
   );
 }
